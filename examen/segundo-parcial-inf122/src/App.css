@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  align-items: center;
+  background-color: rgba(27, 28, 31, 1);
+  
+}
+.titulo{
+  align-items: center;
+  color:rgba(246, 247, 249, 1);
+  font:Overpass;
+font-size: 40px;
+font-weight: 900;
+line-height: 51px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.contenedor-principal{
+  align-items: center;
+}
